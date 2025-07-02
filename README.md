@@ -80,6 +80,13 @@ cd /opt/impacket && pip install .
 - Script automatically uploads `SharpHound.exe` to `C:\Windows\Temp\` before execution
 - All commands are wrapped in stealth-aware delays
 
+If it stuck somewhere here Press enter
+
+[*] Opening SVCManager on 192.168.112.130.....
+[*] Stopping service UMUU.....
+[*] Removing service UMUU.....
+[*] Removing file NTTryBcA.exe.....
+
 ---
 
 ## 🙌 Author
