@@ -93,4 +93,6 @@ If it stuck somewhere here Press enter
 
 Developed by red team automation enthusiasts to simplify common attack chains.
 
+🌍 medium.com/@psydck
+
 ---
